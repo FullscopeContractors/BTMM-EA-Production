@@ -1,0 +1,47 @@
+# MetaTrader 5 compiled files
+*.ex5
+*.ex4
+
+# MetaTrader 5 logs and terminal data
+*.log
+*.txt
+Logs/
+History/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# Python and other build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Node dependencies (if any)
+node_modules/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# State and persistence files (local only)
+BTMM_States/
+*.state
+*.backup
+
+# Test outputs
+test_results/
+*.coverage
+
+# IDE temp files
+*.session
